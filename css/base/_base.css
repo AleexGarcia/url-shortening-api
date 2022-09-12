@@ -10,4 +10,5 @@ body,html{
     font-size: var(--font-size);
     font-weight: 500;
     color: var(--gray);
+    min-height: 100vh;
 }
